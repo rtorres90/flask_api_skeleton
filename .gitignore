@@ -1,0 +1,7 @@
+.DS_Store
+*.jar
+*.pyc
+*.cache
+.idea/
+venv/
+env/
